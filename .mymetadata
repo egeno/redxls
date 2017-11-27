@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="redxls"
+  id="myeclipse.1442805306324"
+  context-root="/redxls"
+  j2ee-spec="5.0"
+  archive="redxls.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
